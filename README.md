@@ -15,10 +15,10 @@ Problems are organized by language and difficulty. Each file is named with its L
 
 ## ✅ Completed Problems
 
-| #   | Title         | Langauge | Difficulty | Solution                                        |
-|-----|---------------|----------|------------|-------------------------------------------------|
-| 258 | Add Digits    | Kotlin   | Easy       | [`0258-add-digits.kt`](easy/0258-add-digits.kt) |
-| ... | ...           |          | ...        | ...                                             |    
+| #   | Title         | Langauge | Difficulty | Solution                                                        |
+|-----|---------------|----------|------------|-----------------------------------------------------------------|
+| 258 | Add Digits    | Kotlin   | Easy       | [`0258-add-digits.kt`](src/kotlin_code/easy/0258-add-digits.kt) |
+| ... | ...           |          | ...        | ...                                                             |    
 
 ---
 
